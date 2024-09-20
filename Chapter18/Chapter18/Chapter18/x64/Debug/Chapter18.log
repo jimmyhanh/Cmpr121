@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\hohun\Downloads\Chapter18\Chapter18\Chapter18\main.cpp(67,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\hohun\Downloads\Chapter18\Chapter18\Chapter18\main.cpp(95,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\hohun\Downloads\Chapter18\Chapter18\Chapter18\main.cpp(129,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\hohun\Downloads\Chapter18\Chapter18\Chapter18\main.cpp(162,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\hohun\Downloads\Chapter18\Chapter18\Chapter18\main.cpp(186,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\hohun\Downloads\Chapter18\Chapter18\Chapter18\main.cpp(212,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\hohun\Downloads\Chapter18\Chapter18\Chapter18\main.cpp(240,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Chapter18.vcxproj -> C:\Users\hohun\Downloads\Chapter18\Chapter18\x64\Debug\Chapter18.exe
