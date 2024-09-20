@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\hohun\OneDrive\Desktop\Cmpr121\Chapter20\Chapter20\main.cpp(160,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hohun\OneDrive\Desktop\Cmpr121\Chapter20\Chapter20\main.cpp(163,66): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Chapter20.vcxproj -> C:\Users\hohun\OneDrive\Desktop\Cmpr121\Chapter20\x64\Debug\Chapter20.exe
