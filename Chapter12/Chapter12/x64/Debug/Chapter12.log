@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\hohun\OneDrive\Desktop\Cmpr121\Chapter12\Chapter12\main.cpp(791,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hohun\OneDrive\Desktop\Cmpr121\Chapter12\Chapter12\main.cpp(809,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hohun\OneDrive\Desktop\Cmpr121\Chapter12\Chapter12\main.cpp(982,11): warning C4129: 'E': unrecognized character escape sequence
+  Chapter12.vcxproj -> C:\Users\hohun\OneDrive\Desktop\Cmpr121\Chapter12\x64\Debug\Chapter12.exe
