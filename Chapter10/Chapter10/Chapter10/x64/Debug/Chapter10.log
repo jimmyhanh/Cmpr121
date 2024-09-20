@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\A208\Downloads\Chapter10\Chapter10\Chapter10\main.cpp(307,71): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\A208\Downloads\Chapter10\Chapter10\Chapter10\main.cpp(310,93): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Chapter10.vcxproj -> C:\Users\A208\Downloads\Chapter10\Chapter10\x64\Debug\Chapter10.exe
