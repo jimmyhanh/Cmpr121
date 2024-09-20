@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\hohun\Downloads\Exam3 (1)\Exam3\Exam3\main.cpp(147,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hohun\Downloads\Exam3 (1)\Exam3\Exam3\main.cpp(171,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hohun\Downloads\Exam3 (1)\Exam3\Exam3\main.cpp(281,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hohun\Downloads\Exam3 (1)\Exam3\Exam3\main.cpp(529,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hohun\Downloads\Exam3 (1)\Exam3\Exam3\main.cpp(588,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hohun\Downloads\Exam3 (1)\Exam3\Exam3\main.cpp(694,25): warning C4129: 'N': unrecognized character escape sequence
+C:\Users\hohun\Downloads\Exam3 (1)\Exam3\Exam3\main.cpp(758,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hohun\Downloads\Exam3 (1)\Exam3\Exam3\main.cpp(878,25): warning C4129: 'N': unrecognized character escape sequence
+  Exam3.vcxproj -> C:\Users\hohun\Downloads\Exam3 (1)\Exam3\x64\Debug\Exam3.exe
